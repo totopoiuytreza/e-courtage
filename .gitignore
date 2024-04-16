@@ -1,5 +1,6 @@
 back/.env
 back/node_modules
+back/env.json
 
 front/node_modules
 front/dist
