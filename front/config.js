@@ -1,5 +1,5 @@
 let config = {
-    api_url: "http://ec2-52-54-236-106.compute-1.amazonaws.com:3000/",
+    api_url: "http://http://52.22.34.152:3000/",
     base_url: "./"
 };
 
